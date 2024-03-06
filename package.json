@@ -1,0 +1,24 @@
+{
+  "name": "apiinodejs",
+  "version": "1.0.0",
+  "description": "This Repo is for Practicing Api concepts (in Nodejs)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parshant679/APIINodejs.git"
+  },
+  "author": "Parshant Rajput",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parshant679/APIINodejs/issues"
+  },
+  "homepage": "https://github.com/Parshant679/APIINodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0"
+  }
+}
